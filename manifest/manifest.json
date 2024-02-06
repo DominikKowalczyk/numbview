@@ -1,0 +1,18 @@
+{
+    "name": "numbview",
+    "description": "Switch views with numpad keys.",
+    "version": "1.0.0",
+    "author": "Dominik Kowalczyk",
+    "GUID": "6371cb4c-b8bb-421a-8961-a7a0b3b6fe0a",
+    "ui": {
+        "icon": "icon.png"
+    },
+    "runtime": {
+        "dependencies": [],
+        "license": "MIT"
+    },
+    "resources": {
+        "readme": "README.md",
+        "license": "LICENSE.txt"
+    }
+}
